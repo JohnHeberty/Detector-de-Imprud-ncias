@@ -1,0 +1,2 @@
+start Lukas_Kanade_Opencv.py
+pause
